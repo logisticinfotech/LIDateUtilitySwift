@@ -20,9 +20,26 @@ it, simply add the following line to your Podfile:
 pod 'LIDateUtility'
 ```
 
-## Author
+## Description
 
-vvdodiya, vishaldodiya@logisticinfotech.co.in
+Here are the full desction of the method and pose 
+
+# 1)  Get current year
+# 2)  Get current month
+# 3)  Get current day
+# 4) Get year from date
+# 5) Get month from date
+# 6) Get day from date
+# 7) Get time from date
+# 8) Get name of week day from date
+# 9) Date from String
+# 10) String from Date
+# 11) Get timestamp from date
+# 12) Get date from timestamp
+# 13) Get age
+# 14) Compare Two Dates
+# 15) Get Difference between two dates in days
+
 
 ## License
 
