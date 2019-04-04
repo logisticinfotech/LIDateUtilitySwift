@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LIDateUtility_Example' do
+  pod 'LIDateUtility', :path => '../'
+
+  target 'LIDateUtility_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
