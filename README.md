@@ -22,7 +22,7 @@ pod 'LIDateUtility'
 
 ## Description
 
-Here are the full desction of the method and pose 
+Here are the full Description of How to use methods in project and it's output. 
 
 ### 1)  Get current year
 
