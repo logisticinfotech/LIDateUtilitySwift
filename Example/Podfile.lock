@@ -1,0 +1,16 @@
+PODS:
+  - LIDateUtility (0.1.0)
+
+DEPENDENCIES:
+  - LIDateUtility (from `../`)
+
+EXTERNAL SOURCES:
+  LIDateUtility:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LIDateUtility: f23d1034a85c111398c1f67a7d61697cb4a5ad09
+
+PODFILE CHECKSUM: af4d00d2fe483dcbdef4f8df4bf47935c569c558
+
+COCOAPODS: 1.5.3

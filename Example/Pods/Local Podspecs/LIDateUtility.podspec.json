@@ -1,0 +1,22 @@
+{
+  "name": "LIDateUtility",
+  "version": "0.1.0",
+  "summary": "A short description of LIDateUtility.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vvdodiya/LIDateUtility",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vvdodiya": "vishaldodiya@logisticinfotech.co.in"
+  },
+  "source": {
+    "git": "https://github.com/vvdodiya/LIDateUtility.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LIDateUtility/Classes/**/*"
+}
